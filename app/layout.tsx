@@ -9,7 +9,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Afluera - AI Influencer Matching Platform',
   description: 'Find the perfect influencer for your product in seconds. Afluera\'s AI matches brands with influencers whose audiences are ready to buy.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
